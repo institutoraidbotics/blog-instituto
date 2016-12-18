@@ -1,2 +1,15 @@
-# blog-instituto
-Es un proyecto dedicado al crecimiento de comunidad del instituto a través de un blog de eventos.
+Blog Universidad
+
+{Descripcion del proyecto}
+
+{Instalación}
+-Requisitos
+-Versión
+-Encargado del proyecto
+
+{Pasos puntuales para este proyecto}
+
+{Como funciona}
+-El proyecto que debes instalar - blabla
+
+{Documentación}
