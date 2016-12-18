@@ -13,3 +13,5 @@ Blog Universidad
 -El proyecto que debes instalar - blabla
 
 {Documentación}
+
+{Planes Futuros}
